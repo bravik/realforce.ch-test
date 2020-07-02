@@ -1,6 +1,8 @@
+# RealForce.ch Test
 In this demo only core domain logic for salary calculation is implemented and simple console command to test calculations. Data storage and some implementation details are abstracted by interfaces, some basic mock classes and data provided for demonstration reasons.
 
-#Directories structure
+## Directories structure
+
 ```
 src
    Model/Payroll    - core domain logic for salary calculations
@@ -10,16 +12,17 @@ tests               - A few tests
 dataset             - Simple test datatset in JSON files
 ```
 
-#Installation
+## Installation
+
 PHP 7.4 is required.  
 Clone the repo.  
 `composer install`
 
-# Demo:
-`bin/console app:salary-report`
+## Demo:
+`bin/console app:salary-report`  
 `vendor/bin/simple-php-unit`
 
-# Architecture
+## Architecture
 App domain model has the following entities:
 - Employee
 - ContractTerms
