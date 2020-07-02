@@ -1,0 +1,10 @@
+[
+  {
+    "employee_id": "with-kids-bonus",
+    "modificator_id": "reduced-tax"
+  },
+  {
+    "employee_id": "charlie",
+    "modificator_id": "reduced-tax"
+  }
+]

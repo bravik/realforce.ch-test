@@ -1,0 +1,20 @@
+[
+  {
+    "employee_id": "charlie",
+    "modificator_id": "company-car",
+    "effective_from": "2019-01-01 00:00:00",
+    "effective_till": "2021-01-01 00:00:00"
+  },
+  {
+    "employee_id": "aged",
+    "modificator_id": "elder-care",
+    "effective_from": "2019-01-01 00:00:00",
+    "effective_till": "2021-01-01 00:00:00"
+  },
+  {
+    "employee_id": "with-car",
+    "modificator_id": "company-car",
+    "effective_from": "2019-01-01 00:00:00",
+    "effective_till": "2021-01-01 00:00:00"
+  }
+]

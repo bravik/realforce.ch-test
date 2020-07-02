@@ -1,0 +1,9 @@
+[
+  {
+    "id": "reduced-tax",
+    "title" : "Reduced Tax For 3+ Kids",
+    "target": "tax",
+    "operation": "fixed",
+    "amount": -0.02
+  }
+]

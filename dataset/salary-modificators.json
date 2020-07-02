@@ -1,0 +1,16 @@
+[
+  {
+    "id": "company-car",
+    "title" : "Company Car",
+    "target": "salary",
+    "operation": "fixed",
+    "amount": -500
+  },
+  {
+    "id": "elder-care",
+    "title" : "Elder Care Policy",
+    "target": "salary",
+    "operation": "percent",
+    "amount": 7
+  }
+]

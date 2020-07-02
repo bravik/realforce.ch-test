@@ -1,0 +1,50 @@
+[
+  {
+    "id" : "basic",
+    "name": "Dave",
+    "rate": 1000,
+    "age": 20,
+    "kids": 0,
+    "is_using_company_car": false
+  },
+  {
+    "id" : "with-kids-bonus",
+    "name": "Alice",
+    "rate": 6000,
+    "age": 26,
+    "kids": 3,
+    "is_using_company_car": false
+  },
+  {
+    "id" : "alice",
+    "name": "Ann",
+    "rate": 6000,
+    "age": 26,
+    "kids": 2,
+    "is_using_company_car": false
+  },
+  {
+    "id" : "aged",
+    "name": "Bob",
+    "rate": 4000,
+    "age": 52,
+    "kids": 0,
+    "is_using_company_car": false
+  },
+  {
+    "id" : "with-car",
+    "name": "Michel",
+    "rate": 4000,
+    "age": 25,
+    "kids": 0,
+    "is_using_company_car": true
+  },
+  {
+    "id" : "charlie",
+    "name": "Charlie",
+    "rate": 5000,
+    "age": 36,
+    "kids": 3,
+    "is_using_company_car": true
+  }
+]
