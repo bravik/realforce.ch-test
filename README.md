@@ -37,6 +37,8 @@ App domain model has the following entities:
 
 Each policy is applied to each employee individually as an `EmployeeSalaryModificator` or `EmployeeTaxModificator`. These entities represent `Salary/TaxModificator` assignment to `Employee` with additional data, which includes effective time period for each modificator.
 
+![](docs/er-schema.png)
+
 Salary calculation and bonus/deductions management are split to two independent processes.
  
 Salary calculator (`App/Model/Services/EarningsCalculator`)  
